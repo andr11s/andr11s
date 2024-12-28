@@ -18,8 +18,4 @@
  
 <div align="center">   
 <img src="https://skillicons.dev/icons?i=nestjs,nodejs,angular,typescript,mongodb,git,docker,npm,postman" width={100}/><br>
-</div>
-
-CV JSON schema from [**jsonresume.org**](https://jsonresume.org/schema/)
-
-Based on [**Bartosz Jarocki - Print-friendly, minimalist CV page**](https://github.com/BartoszJarocki/cv) and [**Miguel Ángel Durán - minimalist-portfolio-json**](https://github.com/midudev/minimalist-portfolio-json)
+</div> 
