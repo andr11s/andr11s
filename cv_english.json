@@ -1,0 +1,150 @@
+{
+  "basics": {
+    "name": "Alvis andres herrea vega",
+    "label": "Web Developer with over 3 years of experience",
+    "image": "https://avatars.githubusercontent.com/u/59078034?v=4",
+    "email": "yobreiner1@gmail.com",
+    "phone": "",
+    "url": "https://midu.dev",
+    "summary": "I have over 3 years of experience as a web developer. I live in Colombia, and I am passionate about developing solutions for all types of problems, creating projects that integrate both visual and logical elements. I enjoy designing engaging digital experiences while implementing robust systems that address specific needs.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Valledupar",
+      "countryCode": "ES",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "alvisherrera",
+        "url": "https://www.linkedin.com/in/alvisherrera/"
+      }, 
+      {
+        "network": "GitHub",
+        "username": "andr11s",
+        "url": "https://github.com/andr11s"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Munily",
+     "position": "Web Developer",
+      "url": "https://munily.com/",
+      "startDate": "2021-09-15",
+      "endDate": null,
+      "summary": "Full Stack Developer with experience in both frontend and backend, specialized in creating new features and maintaining existing systems. Passionate about designing efficient solutions that enhance user experience and optimize application performance.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [{
+    "institution": "Universidad Popular del Cesar",
+    "url": "https://www.unicesar.edu.co/",
+    "area": "Ingeniero de Sistemas",
+    "studyType": "Graduate",
+    "startDate": "2015-01-01",
+    "endDate": "2021-01-01",
+    "score": "4.0",
+    "courses": [
+     
+    ]
+  }],
+  "awards": [ ],
+  "certificates": [ ],
+  "publications": [ ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    }, 
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "NestJs",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo backend", "Backend"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Framework", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "ApiRest-movies",
+      "isActive": false,
+      "description": "Api Rest de peliculas desarrollado con nestjs",
+      "highlights": [
+        "Conecta con las mejores peliculas"
+      ],
+      "url": "https://github.com/andr11s/ApiRest-movies"
+    }
+  ]
+}
