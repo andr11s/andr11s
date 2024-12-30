@@ -17,5 +17,5 @@
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
  
 <div align="center">   
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,angular,typescript,mongodb,git,docker,npm,postman" width={100}/><br>
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,angular,typescript,mongodb,postgres,redis,supabase,vite,git,docker,npm,postman" width={100}/><br>
 </div> 
